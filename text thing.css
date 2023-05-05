@@ -1,0 +1,18 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+h1
+{
+    position: center;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-size: 5em;
+    -webkit-text-fill-color: #000000;
+    -webkit-text-stroke-width: 3px;
+}
